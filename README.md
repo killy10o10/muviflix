@@ -1,6 +1,6 @@
-# eCinema - Popular Movies in one place
+# Muviflix - Popular Movies in one place
 
-Live demo: []()
+Live demo:[muviflix](https://muviflix.netlify.app/)
 
 ### Clone project
 
